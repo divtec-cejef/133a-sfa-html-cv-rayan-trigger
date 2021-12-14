@@ -1,7 +1,17 @@
 @font-face{
-    font-family: "play";
-    src: url("../fonts/Play-Regular.ttf");
-    font-weight: 700;
+/* play-regular - latin */
+@font-face {
+    font-family: 'play';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/play-v12-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+    url('../fonts/play-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/play-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/play-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/play-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/play-v12-latin-regular.svg#Play') format('svg'); /* Legacy iOS */
+}
 }
 
 
@@ -10,6 +20,12 @@
 
 body
 {
+    background-image:url(https://i.ytimg.com/vi/WUXiDxNEIDI/hqdefault.jpg)no-repeat;
+    background-attachment:fixed;
     font-family: 'play', sans-serif;
+    color:black;
+    background-color:darkblue;
+
+    margin:0;
 }
 
