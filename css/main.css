@@ -1,6 +1,6 @@
 @font-face{
     font-family: "play";
-    src: url ("../fonts/Play-Regular.ttf");
+    src: url("../fonts/Play-Regular.ttf");
     font-weight: 700;
 }
 
@@ -10,6 +10,6 @@
 
 body
 {
-    font-family: 'Play', sans-serif;
+    font-family: 'play', sans-serif;
 }
 
