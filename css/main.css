@@ -12,6 +12,19 @@
     url('../fonts/play-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
     url('../fonts/play-v12-latin-regular.svg#Play') format('svg'); /* Legacy iOS */
 }
+}
+
+
+
+
+
+body
+{
+    background-attachment:fixed;
+    font-family: 'play', sans-serif;
+    color:black;
+    background-color:darkblue;
+    margin:0;
 .Rayan{
     margin-left: auto;
     margin-right: auto;
@@ -42,20 +55,5 @@
     margin-right: auto;
     width: 6cm
 }
-}
-
-
-
-
-
-body
-{
-    background-image:url(https://i.ytimg.com/vi/WUXiDxNEIDI/hqdefault.jpg)no-repeat;
-    background-attachment:fixed;
-    font-family: 'play', sans-serif;
-    color:black;
-    background-color:darkblue;
-
-    margin:0;
 }
 
