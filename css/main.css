@@ -26,19 +26,24 @@ body
     width: 6cm
 }
 .expériance{
-    margin-left: auto;
+    color: white;
+    border-radius: 15px;
+    margin-left: 0;
     margin-right: auto;
     width: 6cm
 }
 .bigbro{
-    margin-left: auto;
+    margin-left: 0;
     margin-right: auto;
     width: 6cm
+    border-radius: 15px;
 }
 .compétences{
+    color: white;
     margin-left: auto;
     margin-right: auto;
     width: 6cm
+
 }
 .EXXDIA {
     margin-left: auto;
@@ -46,18 +51,22 @@ body
     width: 6cm
 }
 .formation{
+    color: white;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 0;
     width: 6cm
 }
 .combattant{
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 0;
     width: 6cm
 }
 a {
     display: flex;
     justify-content: center;
+}
+a:visited{
+    color: darkred;
 }
 
 img {
