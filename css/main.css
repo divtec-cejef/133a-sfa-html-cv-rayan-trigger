@@ -21,11 +21,13 @@ body
     margin:0;
 }
 .Rayan{
+    text-shadow: 6px 6px 6px red;
     margin-left: auto;
     margin-right: auto;
     width: 6cm
 }
 .expériance{
+    text-shadow: 6px 6px 6px white;
     color: white;
     border-radius: 15px;
     margin-left: 0;
@@ -39,6 +41,7 @@ body
     border-radius: 15px;
 }
 .compétences{
+    text-shadow: 6px 6px 6px white;
     color: white;
     margin-left: auto;
     margin-right: auto;
@@ -51,6 +54,7 @@ body
     width: 6cm
 }
 .formation{
+    text-shadow: 6px 6px 6px white;
     color: white;
     margin-left: auto;
     margin-right: 0;
