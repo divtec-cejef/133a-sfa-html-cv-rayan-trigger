@@ -1,6 +1,6 @@
 # Bienvenue Monsieur
 
-Vous allez participer à un osint fait en 2h à peine.
+Vous allez participer à un "petit jeu!" fait en 1h à peine.
 
 Votre réponse devra m'être envoyé sur teams et dois répondre à ce format : alexis_apple_bernard
 
